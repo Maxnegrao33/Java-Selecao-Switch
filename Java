@@ -1,0 +1,31 @@
+/*
+*@author Maciel Oliveira
+**
+*/
+//import java.*;
+	
+	public class Switch {
+		public static void main(Strings [] args) {
+
+	//Seleção Múltiplas do Switch
+	int escolha = Console.readInt ("Selecione um número entre 1 e 4");
+	lê uma tecla
+		switch (escolha){
+		case1:
+		   ... //instrução
+		   break;
+		case2:
+		   ...
+		   break;
+		case3:
+		   ...
+		   break;
+		case4:
+		   ...
+		   break;
+		default:
+		   //entrada inválida
+		   break;
+		}	
+	}
+}
